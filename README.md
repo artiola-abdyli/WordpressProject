@@ -1,3 +1,3 @@
 # WordpressProject
-This is our first wordpress news where we created a wordpress news portal theme
+This is our first wordpress project, we created a wordpress news portal theme
 <3
